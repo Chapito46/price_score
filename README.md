@@ -23,6 +23,6 @@ Keeping our app secure from bots by using Auth0 and creating something that is u
 
 How to keep our clients secure using Auth0 and how to complete a functional project in such a small time
 
-## What's next for Price Scourer
+## What's next for Price Score
 
 Adding additonal features such as a price alert option that will send you email whenever your chosen product falls under a set price
